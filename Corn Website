@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Corn</title>
+  </head>
+  <body style="background-color:green">
+    <h1 style="color:yellow;text-align:center;">Why Corn is The Best Food</h1>
+    <h2 style="color:yellow;text-align:left">Corn is delicious</h2>
+    <p style="color:yellow;text-align:left;">Corn is a piece of cob, with a whole lot of kernel goodness on the cob that can taste really sweet or make the taste salty. There is no wrong way to eating corn</p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXG-25X0lLVWHEMRZpZaFdUsm2BPQrb7fwtKsMEVmEoW5jSczKL4GN0Qw5PBsnPku-apo:https://www.jessicagavin.com/wp-content/uploads/2019/05/how-to-cook-corn-on-the-cob-8-1200.jpg&usqp=CAU" alt="Corn on the cob" width="250" height="250">
+    <h2 style="color:yellow;text-align:right">Corn is a good resource to make other food</h2>
+    <p style="color:yellow;text-align:right">Corn can be made to make other food like corn torillas, popcorn, and corn flake cereal</p>
+    <img id="tortilla"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuM6JuynRqEVBsQCvOTW_QGMBhnUs7QNT2nsx-5WW1Pen90gLKn3aC9axypyCQqz7NHQ:https://c8.alamy.com/comp/K1TRN9/tortilla-chips-in-wooden-bowl-snack-food-made-from-corn-tortillas-K1TRN9.jpg&usqp=CAU" alt="Corn Torilla Chips" width="250" height="250">
+    <p style="color:yellow;text-align:center">
+      click on the heart made out of corn for some more information on corn/maiz
+      </p>
+        <a href="https://en.wikipedia.org/wiki/Maize">
+      <img id="corn"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qz1pxCWT6AxCIhcKx61hA1TZ8gxlxAvBGJa3Xw1I0IkHGw0kVB52RsIyTts92IFfTcQ:https://st2.depositphotos.com/1177973/8679/i/950/depositphotos_86790862-stock-photo-heart-shaped-corn-beans.jpg&usqp=CAU" alt="Heart made out of Corn" style="width:200px;height:200px">
+    </a>
+    <p style="text-align:center">
+    If you like emails here is an <a href="mailto:david.gonzalez105@students.nisd.net">email</a>
+    </p>
+  </body>
+</html>
